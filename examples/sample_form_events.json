@@ -1,0 +1,18 @@
+[
+  {
+    "field_id": "national_id",
+    "dwell_time_ms": 11200
+  },
+  {
+    "field_id": "phone_number",
+    "dwell_time_ms": 2800
+  },
+  {
+    "field_id": "shipping_district",
+    "dwell_time_ms": 9400
+  },
+  {
+    "field_id": "full_name",
+    "dwell_time_ms": 2100
+  }
+]

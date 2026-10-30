@@ -1,0 +1,15 @@
+{
+  "recipe_title": "Form Field Dwell & Hesitation Telemetry Listener",
+  "trigger_events": [
+    "focusin",
+    "focusout",
+    "input",
+    "change"
+  ],
+  "monitored_metrics": [
+    "field_dwell_time_ms",
+    "keystroke_hesitation_delay_ms",
+    "corrections_backspace_count",
+    "abandonment_field_id"
+  ]
+}
